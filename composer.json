@@ -1,0 +1,11 @@
+{
+  "name": "dmitriy/wichbrowserservice",
+  "autoload": {
+    "psr-4": {
+      "WichBrowserService\\dmitriy\\": "src/"
+    }
+  },
+  "require": {
+    "whichbrowser/parser": "^2.1"
+  }
+}
