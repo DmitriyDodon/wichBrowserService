@@ -6,6 +6,14 @@
     }
   },
   "require": {
-    "whichbrowser/parser": "^2.1"
+    "whichbrowser/parser": "^2.1",
+    "dmitriy/useragentinterface": "^1.0"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/DmitriyDodon/UserAgentInterface"
+    }
+  ]
   }
 }
