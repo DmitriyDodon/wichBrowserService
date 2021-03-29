@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Service\UserAgent\UserAgentService;
+namespace WichBrowserService\dmitriy;
 
 use App\Service\UserAgent\UserAgentInterface;
 use WhichBrowser\Parser;
