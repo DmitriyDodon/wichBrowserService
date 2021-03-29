@@ -2,7 +2,7 @@
 
 namespace WichBrowserService\dmitriy;
 
-use App\Service\UserAgent\UserAgentInterface;
+use InterfaceUA\dmitriy\UserAgentInterface;
 use WhichBrowser\Parser;
 
 class whichBrowserService implements UserAgentInterface
